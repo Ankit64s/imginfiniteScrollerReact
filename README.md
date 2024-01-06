@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#hosted-Link:
+# Hosted-Link:
 https://images-infinite-scroller.netlify.app/
 
 ## Available Scripts
